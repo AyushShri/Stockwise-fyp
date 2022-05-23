@@ -1,0 +1,6 @@
+{
+    "name": "View Alert",
+    "version": "1.0.0",
+    "private": true,
+    "main": "ViewAlert.js"
+  }
